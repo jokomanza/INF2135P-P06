@@ -2,6 +2,8 @@ package assessment;
 
 abstract class Animal {
 
+    boolean hasBackbones;
+
     String species;
 
     abstract String getSpecies();
