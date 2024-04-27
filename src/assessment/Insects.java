@@ -1,5 +1,8 @@
 package assessment;
 
+/**
+ * The class for insects. This class extends the Invertebrate class.
+ */
 public class Insects extends Invertebrate {
 
     /**
@@ -17,6 +20,11 @@ public class Insects extends Invertebrate {
     @Override
     void setSpecies(String species) {
         this.species = species;
+    }
+
+    @Override
+    boolean hasBackbones() {
+        return this.hasBackbones;
     }
 
     String getPhylum() {
