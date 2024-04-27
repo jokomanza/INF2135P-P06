@@ -1,4 +1,4 @@
-package assessment;
+package assignment;
 
 /**
  * The class for insects. This class extends the Invertebrate class.

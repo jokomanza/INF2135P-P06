@@ -1,4 +1,4 @@
-package assessment;
+package assignment;
 
 /**
  * The base class for all invertebrates. This class extends the Animal class.

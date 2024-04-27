@@ -1,4 +1,4 @@
-package assessment;
+package assignment;
 
 /**
  * The base class for all animals. Contains the species and whether the animal has backbones.

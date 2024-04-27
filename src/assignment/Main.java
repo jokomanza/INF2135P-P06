@@ -1,4 +1,4 @@
-package assessment;
+package assignment;
 
 /**
  * The Main class. The entry point of the program.
